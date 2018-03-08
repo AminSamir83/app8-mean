@@ -1,0 +1,20 @@
+{
+  "name": "app8",
+  "version": "0.0.1",
+  "description": "a node application",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "amin samir",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.4"
+  }
+}
